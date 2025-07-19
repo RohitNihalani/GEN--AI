@@ -5,7 +5,7 @@ ai.configure(api_key="AIzaSyCo7EDZa1_4kAgjPbHvi7EAir3qmi1nV1I")
 
 model = ai.GenerativeModel("gemini-1.5-flash")
 
-st.title("GENAI CHATBOT")
+st.title("WELCOME TO BOTIMUS PRIME")
 
 user_query = st.text_input("ASK ME ANYTHING")
 
